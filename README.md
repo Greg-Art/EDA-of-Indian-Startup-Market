@@ -3,6 +3,6 @@ In order to comprehend the factors that lead to start-up success, the problem en
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | EDA of Indian Startup Market |  [Article to project](https://medium.com/@gregoryarthur98/crunching-the-numbers-an-eda-of-the-indian-startup-ecosystem-from-2018-to-2021-380ddd985449) | [Power BI Dashboard](/https://app.powerbi.com/groups/me/reports/e50f388b-43f4-459b-8422-647cec8bf041) |
+| LP1 | EDA of Indian Startup Market |  [Article to project](https://medium.com/@gregoryarthur98/crunching-the-numbers-an-eda-of-the-indian-startup-ecosystem-from-2018-to-2021-380ddd985449) | [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/e50f388b-43f4-459b-8422-647cec8bf041) |
 ## Author 
 Arthur Kwaku Gregory
